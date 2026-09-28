@@ -84,7 +84,7 @@
         <rect width="108" height="34" rx="7" fill="var(--card-bg)" stroke="var(--card-border)" stroke-width="1" />
         <circle cx="15" cy="17" r="5" fill="var(--star-color)" />
         <text x="27" y="17" fill="var(--text-secondary)" font-size="11" alignment-baseline="central">Stars:</text>
-        <text x="63" y="17" fill="var(--text-primary)" font-size="12.5" font-weight="700" alignment-baseline="central">539</text>
+        <text x="63" y="17" fill="var(--text-primary)" font-size="12.5" font-weight="700" alignment-baseline="central">541</text>
       </g>
 
       <!-- Forks Pill -->
@@ -191,8 +191,8 @@
   <path d="M 65.0 445.0 C 69.5 444.9, 72.1 444.5, 92.3 444.3 C 112.4 444.1, 106.5 443.9, 185.7 443.6 C 264.9 443.4, 502.5 443.2, 567.4 442.9 C 632.3 442.7, 553.1 442.5, 575.1 442.2 C 597.2 442.0, 669.9 442.4, 699.8 441.6 C 729.6 440.7, 743.9 441.2, 754.3 437.4 C 764.7 433.6, 759.5 423.0, 762.1 418.8 C 764.7 414.5, 767.3 414.1, 769.9 411.9 C 772.5 409.7, 775.0 407.7, 777.6 405.7 C 780.2 403.6, 782.8 401.0, 785.4 399.5 C 788.0 398.0, 790.6 398.3, 793.2 396.7 C 795.8 395.1, 798.4 391.4, 801.0 389.8 C 803.6 388.2, 806.2 388.0, 808.8 387.0 C 811.4 386.1, 814.0 384.9, 816.6 384.3 C 819.2 383.7, 821.8 383.8, 824.4 383.6 C 827.0 383.4, 829.6 383.4, 832.2 382.9 C 834.8 382.4, 837.4 381.3, 840.0 380.8 C 842.5 380.4, 843.8 380.5, 847.7 380.1 C 851.6 379.8, 859.4 379.4, 863.3 378.8 C 867.2 378.1, 869.2 377.3, 871.1 376.0 C 873.1 374.7, 874.4 372.3, 875.0 371.2 C 875.6 370.0, 875.0 369.6, 875.0 369.1 C 875.0 368.6, 875.0 368.8, 875.0 368.4 C 875.0 368.1, 875.0 367.4, 875.0 367.0 C 875.0 366.7, 875.0 366.7, 875.0 366.3 C 875.0 366.0, 875.0 365.5, 875.0 365.0 C 875.0 364.4, 875.0 363.5, 875.0 362.9 C 875.0 362.3, 875.0 361.9, 875.0 361.5 C 875.0 361.2, 875.0 361.1, 875.0 360.8 C 875.0 360.6, 875.0 360.4, 875.0 360.1 C 875.0 359.9, 875.0 359.8, 875.0 359.4 C 875.0 359.1, 875.0 358.3, 875.0 358.1 C 875.0 357.8, 875.0 358.1, 875.0 358.1" fill="none" stroke="var(--fork-color)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
 
   <!-- 3. Stars Curve (Gold) -->
-  <path d="M 65.0 445.0 C 68.2 443.3, 79.9 439.1, 84.5 434.6 C 89.0 430.2, 89.7 421.2, 92.3 418.1 C 94.9 415.0, 97.5 416.6, 100.0 416.0 C 102.6 415.4, 105.2 415.0, 107.8 414.6 C 110.4 414.3, 111.7 414.2, 115.6 413.9 C 119.5 413.7, 127.3 413.5, 131.2 413.3 C 135.1 413.0, 136.4 412.8, 139.0 412.6 C 141.6 412.3, 140.3 412.1, 146.8 411.9 C 153.3 411.6, 171.4 411.4, 177.9 411.2 C 184.4 411.0, 136.4 410.7, 185.7 410.5 C 235.0 410.3, 424.6 410.0, 473.9 409.8 C 523.2 409.6, 479.1 409.4, 481.7 409.1 C 484.3 408.9, 483.0 408.7, 489.5 408.4 C 496.0 408.2, 501.2 408.1, 520.6 407.7 C 540.1 407.4, 584.2 406.7, 606.3 406.4 C 628.4 406.0, 643.9 405.9, 653.0 405.7 C 662.1 405.4, 658.2 405.2, 660.8 405.0 C 663.4 404.8, 666.0 404.6, 668.6 404.3 C 671.2 403.9, 671.2 403.3, 676.4 402.9 C 681.6 402.6, 694.6 402.5, 699.8 402.2 C 705.0 402.0, 705.0 401.8, 707.5 401.5 C 710.1 401.3, 712.7 401.2, 715.3 400.8 C 717.9 400.5, 717.9 400.3, 723.1 399.5 C 728.3 398.7, 741.3 400.1, 746.5 396.0 C 751.7 391.9, 751.7 394.2, 754.3 374.6 C 756.9 355.1, 759.5 302.4, 762.1 278.7 C 764.7 255.0, 767.3 241.4, 769.9 232.5 C 772.5 223.5, 775.0 230.3, 777.6 224.9 C 780.2 219.5, 782.8 205.9, 785.4 200.1 C 788.0 194.2, 790.6 194.9, 793.2 189.7 C 795.8 184.5, 798.4 174.6, 801.0 169.0 C 803.6 163.4, 806.2 159.1, 808.8 155.9 C 811.4 152.7, 814.0 152.1, 816.6 149.7 C 819.2 147.3, 821.8 143.6, 824.4 141.4 C 827.0 139.2, 829.6 138.2, 832.2 136.6 C 834.8 135.0, 837.4 132.8, 840.0 131.7 C 842.5 130.7, 843.8 131.1, 847.7 130.4 C 851.6 129.7, 859.4 129.6, 863.3 127.6 C 867.2 125.6, 869.2 121.0, 871.1 118.6 C 873.1 116.2, 874.4 114.3, 875.0 113.1 C 875.6 112.0, 875.0 112.8, 875.0 111.7 C 875.0 110.7, 875.0 108.5, 875.0 106.9 C 875.0 105.3, 875.0 103.2, 875.0 102.1 C 875.0 100.9, 875.0 100.3, 875.0 100.0 C 875.0 99.7, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 L 875.0 445 L 65.0 445 Z" fill="url(#starAreaGrad)" />
-  <path d="M 65.0 445.0 C 68.2 443.3, 79.9 439.1, 84.5 434.6 C 89.0 430.2, 89.7 421.2, 92.3 418.1 C 94.9 415.0, 97.5 416.6, 100.0 416.0 C 102.6 415.4, 105.2 415.0, 107.8 414.6 C 110.4 414.3, 111.7 414.2, 115.6 413.9 C 119.5 413.7, 127.3 413.5, 131.2 413.3 C 135.1 413.0, 136.4 412.8, 139.0 412.6 C 141.6 412.3, 140.3 412.1, 146.8 411.9 C 153.3 411.6, 171.4 411.4, 177.9 411.2 C 184.4 411.0, 136.4 410.7, 185.7 410.5 C 235.0 410.3, 424.6 410.0, 473.9 409.8 C 523.2 409.6, 479.1 409.4, 481.7 409.1 C 484.3 408.9, 483.0 408.7, 489.5 408.4 C 496.0 408.2, 501.2 408.1, 520.6 407.7 C 540.1 407.4, 584.2 406.7, 606.3 406.4 C 628.4 406.0, 643.9 405.9, 653.0 405.7 C 662.1 405.4, 658.2 405.2, 660.8 405.0 C 663.4 404.8, 666.0 404.6, 668.6 404.3 C 671.2 403.9, 671.2 403.3, 676.4 402.9 C 681.6 402.6, 694.6 402.5, 699.8 402.2 C 705.0 402.0, 705.0 401.8, 707.5 401.5 C 710.1 401.3, 712.7 401.2, 715.3 400.8 C 717.9 400.5, 717.9 400.3, 723.1 399.5 C 728.3 398.7, 741.3 400.1, 746.5 396.0 C 751.7 391.9, 751.7 394.2, 754.3 374.6 C 756.9 355.1, 759.5 302.4, 762.1 278.7 C 764.7 255.0, 767.3 241.4, 769.9 232.5 C 772.5 223.5, 775.0 230.3, 777.6 224.9 C 780.2 219.5, 782.8 205.9, 785.4 200.1 C 788.0 194.2, 790.6 194.9, 793.2 189.7 C 795.8 184.5, 798.4 174.6, 801.0 169.0 C 803.6 163.4, 806.2 159.1, 808.8 155.9 C 811.4 152.7, 814.0 152.1, 816.6 149.7 C 819.2 147.3, 821.8 143.6, 824.4 141.4 C 827.0 139.2, 829.6 138.2, 832.2 136.6 C 834.8 135.0, 837.4 132.8, 840.0 131.7 C 842.5 130.7, 843.8 131.1, 847.7 130.4 C 851.6 129.7, 859.4 129.6, 863.3 127.6 C 867.2 125.6, 869.2 121.0, 871.1 118.6 C 873.1 116.2, 874.4 114.3, 875.0 113.1 C 875.6 112.0, 875.0 112.8, 875.0 111.7 C 875.0 110.7, 875.0 108.5, 875.0 106.9 C 875.0 105.3, 875.0 103.2, 875.0 102.1 C 875.0 100.9, 875.0 100.3, 875.0 100.0 C 875.0 99.7, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0 C 875.0 100.0, 875.0 100.0, 875.0 100.0" fill="none" stroke="var(--star-color)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 65.0 445.0 L 875.0 100.0 L 875.0 445 L 65.0 445 Z" fill="url(#starAreaGrad)" />
+  <path d="M 65.0 445.0 L 875.0 100.0" fill="none" stroke="var(--star-color)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
 
   <!-- SMALL DATA POINTS ALONG CURVES (Clean micro-dots, no giant clutter) -->
   <g>
@@ -748,220 +748,8 @@
         <title>★ 0 Stars • Jun 1, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="84.5" cy="434.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 15 Stars • Jun 3, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="92.3" cy="418.1" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 39 Stars • Jun 4, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="100.0" cy="416.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 42 Stars • Jun 5, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="107.8" cy="414.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 44 Stars • Jun 6, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="115.6" cy="413.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 45 Stars • Jun 7, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="131.2" cy="413.3" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 46 Stars • Jun 9, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="139.0" cy="412.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 47 Stars • Jun 10, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="146.8" cy="411.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 48 Stars • Jun 11, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="177.9" cy="411.2" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 49 Stars • Jun 15, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="185.7" cy="410.5" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 50 Stars • Jun 16, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="473.9" cy="409.8" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 51 Stars • Jul 23, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="481.7" cy="409.1" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 52 Stars • Jul 24, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="489.5" cy="408.4" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 53 Stars • Jul 25, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="520.6" cy="407.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 54 Stars • Jul 29, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="606.3" cy="406.4" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 56 Stars • Aug 9, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="653.0" cy="405.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 57 Stars • Aug 15, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="660.8" cy="405.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 58 Stars • Aug 16, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="668.6" cy="404.3" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 59 Stars • Aug 17, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="676.4" cy="402.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 61 Stars • Aug 18, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="699.8" cy="402.2" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 62 Stars • Aug 21, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="707.5" cy="401.5" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 63 Stars • Aug 22, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="715.3" cy="400.8" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 64 Stars • Aug 23, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="723.1" cy="399.5" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 66 Stars • Aug 24, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="746.5" cy="396.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 71 Stars • Aug 27, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="754.3" cy="374.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 102 Stars • Aug 28, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="762.1" cy="278.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 241 Stars • Aug 29, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="769.9" cy="232.5" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 308 Stars • Aug 30, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="777.6" cy="224.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 319 Stars • Aug 31, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="785.4" cy="200.1" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 355 Stars • Sep 1, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="793.2" cy="189.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 370 Stars • Sep 2, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="801.0" cy="169.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 400 Stars • Sep 3, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="808.8" cy="155.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 419 Stars • Sep 4, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="816.6" cy="149.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 428 Stars • Sep 5, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="824.4" cy="141.4" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 440 Stars • Sep 6, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="832.2" cy="136.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 447 Stars • Sep 7, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="840.0" cy="131.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 454 Stars • Sep 8, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="847.7" cy="130.4" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 456 Stars • Sep 9, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="863.3" cy="127.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 460 Stars • Sep 11, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="871.1" cy="118.6" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 473 Stars • Sep 12, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="113.1" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 481 Stars • Sep 13, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="111.7" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 483 Stars • Sep 14, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="106.9" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 490 Stars • Sep 15, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="102.1" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 497 Stars • Sep 16, 2026</title>
-      </circle>
-    
       <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 509 Stars • Sep 17, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 512 Stars • Sep 18, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 517 Stars • Sep 19, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 520 Stars • Sep 20, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 523 Stars • Sep 21, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 526 Stars • Sep 22, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 531 Stars • Sep 23, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 534 Stars • Sep 24, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 535 Stars • Sep 25, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 539 Stars • Sep 26, 2026</title>
-      </circle>
-    
-      <circle class="mini-point" cx="875.0" cy="100.0" r="1.8" fill="var(--star-color)" opacity="0.6">
-        <title>★ 539 Stars • Sep 26, 2026</title>
+        <title>★ 541 Stars • Sep 13, 2026</title>
       </circle>
     
   </g>
@@ -981,44 +769,44 @@
 
     <!-- Star 50-Milestones -->
     
-      <circle class="mini-point" cx="183.8" cy="410.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 50 Stars on Jun 16, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="410.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 50 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="757.4" cy="376.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 100 Stars on Aug 28, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="376.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 100 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="761.1" cy="341.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 150 Stars on Aug 29, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="341.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 150 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="763.5" cy="307.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 200 Stars on Aug 29, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="307.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 200 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="766.8" cy="272.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 250 Stars on Aug 30, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="272.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 250 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="771.3" cy="238.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 300 Stars on Aug 30, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="238.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 300 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="787.5" cy="203.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 350 Stars on Sep 1, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="203.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 350 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="804.9" cy="169.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 400 Stars on Sep 3, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="169.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 400 Stars on Sep 13, 2026</title>
       </circle>
     
-      <circle class="mini-point" cx="840.1" cy="134.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 450 Stars on Sep 8, 2026</title>
+      <circle class="mini-point" cx="875.0" cy="134.5" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
+        <title>★ Milestone: 450 Stars on Sep 13, 2026</title>
       </circle>
     
       <circle class="mini-point" cx="875.0" cy="100.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-        <title>★ Milestone: 500 Stars on Sep 17, 2026</title>
+        <title>★ Milestone: 500 Stars on Sep 13, 2026</title>
       </circle>
     
   </g>
@@ -1032,7 +820,7 @@
       <title>⑂ Current Total: 126 Forks</title>
     </circle>
     <circle cx="875.0" cy="100.0" r="3.6" fill="var(--star-color)" stroke="var(--dot-border)" stroke-width="1.6">
-      <title>★ Current Total: 539 Stars</title>
+      <title>★ Current Total: 541 Stars</title>
     </circle>
   </g>
 </svg>
